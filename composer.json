@@ -1,5 +1,5 @@
 {
-    "name": "symfony/propel-skeleton",
+    "name": "uam/symfony-propel-skeleton",
     "license": "MIT",
     "type": "project",
     "description": "Symfony Standard Edition with Propel ORM",
