@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="PROJEC/NAME" default="build" basedir=".">
+<project name="PROJECT/NAME" default="build" basedir=".">
 	<property name="basedir" value="${project.basedir}"/>
 	<property name="passthru" value="true"/>
 	<property name="os" value="${os.name}"/>
